@@ -2,7 +2,7 @@
 
 A dynamic, responsive, and interactive **Quiz Web App** built using **HTML**, **CSS**, and **JavaScript**. Test your knowledge across various topics with this sleek, timed quiz game designed for both learning and fun.
 
-![Quiz App Banner](assets/quiz-banner.png) <!-- Replace with your actual image path -->
+![Quiz App Banner](quiz.png) <!-- Replace with your actual image path -->
 
 ---
 
